@@ -2,7 +2,7 @@ package openal
 
 
 ALboolean :: b8
-ALchar :: rune
+ALchar :: ALubyte
 ALbyte :: i8
 ALubyte :: u8
 ALshort :: i16
